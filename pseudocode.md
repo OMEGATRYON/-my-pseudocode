@@ -17,7 +17,7 @@ VARIABLES: Smoker, smoker-temperature, bbq, ribs, rub-of-choice, apple-wood-chun
 
 6. PERFORM rub-of-choice + hand on ribs
 
-7. IF smoker-temperature >= 350-fahrenheit is TRUE INSERT ribs
+7. IF smoker-temperature >= 350-fahrenheit is TRUE, INSERT ribs
                         IF ELSE, INSERT woodBurned-charcoal
 
 8. INSERT apple-wood-chunks + 6
